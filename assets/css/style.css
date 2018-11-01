@@ -1,0 +1,76 @@
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777777;
+    background-color: #ffffff;
+    border-color: #dddddd;
+    /* width: 960px; */
+    line-height: 1.5em;
+    align-content: center;
+    margin: auto;
+}
+
+header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: #ffffff;
+    border: #666666;
+    color: #4aaaa5;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 5px 0 5px 0;
+}
+
+div {
+    align-content: center;
+    margin: auto;
+    width: 960px;
+    box-sizing: border-box;
+    border: 1px solid #dddddd;
+}
+
+p {
+
+}
+
+.navName {
+    box-sizing: border-box;
+    background-color: #4aaaa5;
+    font-size: 40px;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 35px;
+    text-align: center;
+    height: 98px;
+    float: left;
+}
+
+.navLink{
+    box-sizing: border-box;
+    font-size: 24px;
+    float: right;
+    margin: 30px 10px 10px 10px;
+}
+
+footer {
+    background: #666666;
+}
+
+#profilePic {
+    height: 250px;
+    width: 200px;
+    float: left;
+}
+
+#navagationBar{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    box-sizing: border-box;
+    height: 100px;
+    background-color: #ffffff;
+    border-width: 0 0 2px 0;
+}
+
+#mainDiv {
+    margin: 150px auto 10px auto;
+}
