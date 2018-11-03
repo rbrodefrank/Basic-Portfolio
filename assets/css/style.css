@@ -46,12 +46,12 @@ p {
     line-height: 1.1em;
     font-size: 14px;
     border: 1px #dddddd solid;
-
+    padding: 10px;
+    margin-bottom: 20px;
 }
 
 .container {
     position: relative;
-    text-align: center;
     color: white;
 }
 
@@ -83,7 +83,7 @@ p {
     box-sizing: border-box;
     position: absolute;
     left: 0%;
-    top: 0%;
+    top: 60%;
     width: 200px;
     padding: 10px 0 10px 0;
     text-align: center;
@@ -94,8 +94,8 @@ p {
 .projectTitleSecond {
     box-sizing: border-box;
     position: absolute;
-    left: 0%;
-    top: 0%;
+    left: 255px;
+    top: 60%;
     width: 200px;
     padding: 10px 0 10px 0;
     text-align: center;
